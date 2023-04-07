@@ -4,8 +4,6 @@ O Ionic é um framework de desenvolvimento de software de código aberto (open s
 
 Foi desenvolvido um aplicativo onde o cliente necessita mostrar seus serviços, e mais algumas opções que fora solicitado para contato e demonstração de cores para quem utilizar o app.
 
-![Screenshot_20190922-172454_Alessandro Pintura](https://user-images.githubusercontent.com/48067972/65395164-91df1200-dd6d-11e9-9215-098fa3e8ecab.jpg)
-
 ![Screenshot_20190922-172416_Alessandro Pintura](https://user-images.githubusercontent.com/48067972/65395165-9277a880-dd6d-11e9-9090-eb6d5c4863b8.jpg)
 
 ![Screenshot_20190922-172428_Alessandro Pintura](https://user-images.githubusercontent.com/48067972/65395166-9277a880-dd6d-11e9-8de0-862bfef34f8c.jpg)
