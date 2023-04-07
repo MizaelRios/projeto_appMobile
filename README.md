@@ -2,7 +2,7 @@
 
 O Ionic é um framework de desenvolvimento de software de código aberto (open source) desenvolvido para permitir a construção de aplicativos móveis híbridos.
 
-Foi desenvolvido um aplicativo onde o cliente necessita mostrar seus serviços, e mais algumas opções que fora solicitado para contato e demonstração de cores para quem utilizar o app.
+Aplicativo criado para demonstração de serviços de pintura como exemplo.
 
 ![Screenshot_20190922-172416_Alessandro Pintura](https://user-images.githubusercontent.com/48067972/65395165-9277a880-dd6d-11e9-9090-eb6d5c4863b8.jpg)
 
